@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  1.2.6.1 Vectors - the copy constructor.cpp
+e:\study_practice2017\c++advanced\1.2.6.1 vectors - the copy constructor\1.2.6.1 vectors - the copy constructor\1.2.6.1 vectors - the copy constructor.cpp(19): warning C4018: '>': signed/unsigned mismatch
+e:\study_practice2017\c++advanced\1.2.6.1 vectors - the copy constructor\1.2.6.1 vectors - the copy constructor\1.2.6.1 vectors - the copy constructor.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  1.2.6.1 Vectors - the copy constructor.vcxproj -> E:\Study_practice2017\C++Advanced\1.2.6.1 Vectors - the copy constructor\Debug\1.2.6.1 Vectors - the copy constructor.exe
+  1.2.6.1 Vectors - the copy constructor.vcxproj -> E:\Study_practice2017\C++Advanced\1.2.6.1 Vectors - the copy constructor\Debug\1.2.6.1 Vectors - the copy constructor.pdb (Full PDB)

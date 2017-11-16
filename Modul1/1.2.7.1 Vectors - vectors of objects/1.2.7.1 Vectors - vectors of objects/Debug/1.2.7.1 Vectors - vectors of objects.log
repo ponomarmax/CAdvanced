@@ -1,0 +1,6 @@
+﻿  1.2.7.1 Vectors - vectors of objects.cpp
+e:\study_practice2017\c++advanced\1.2.7.1 vectors - vectors of objects\1.2.7.1 vectors - vectors of objects\1.2.7.1 vectors - vectors of objects.cpp(27): warning C4018: '<=': signed/unsigned mismatch
+e:\study_practice2017\c++advanced\1.2.7.1 vectors - vectors of objects\1.2.7.1 vectors - vectors of objects\1.2.7.1 vectors - vectors of objects.cpp(29): warning C4018: '<=': signed/unsigned mismatch
+e:\study_practice2017\c++advanced\1.2.7.1 vectors - vectors of objects\1.2.7.1 vectors - vectors of objects\1.2.7.1 vectors - vectors of objects.cpp(36): warning C4018: '>': signed/unsigned mismatch
+  1.2.7.1 Vectors - vectors of objects.vcxproj -> E:\Study_practice2017\C++Advanced\1.2.7.1 Vectors - vectors of objects\Debug\1.2.7.1 Vectors - vectors of objects.exe
+  1.2.7.1 Vectors - vectors of objects.vcxproj -> E:\Study_practice2017\C++Advanced\1.2.7.1 Vectors - vectors of objects\Debug\1.2.7.1 Vectors - vectors of objects.pdb (Full PDB)

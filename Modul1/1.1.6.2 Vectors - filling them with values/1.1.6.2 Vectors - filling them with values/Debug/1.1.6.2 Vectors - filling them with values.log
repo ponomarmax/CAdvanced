@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  1.1.6.2 Vectors - filling them with values.cpp
+e:\study_practice2017\c++advanced\1.1.6.2 vectors - filling them with values\1.1.6.2 vectors - filling them with values\1.1.6.2 vectors - filling them with values.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\study_practice2017\c++advanced\1.1.6.2 vectors - filling them with values\1.1.6.2 vectors - filling them with values\1.1.6.2 vectors - filling them with values.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\study_practice2017\c++advanced\1.1.6.2 vectors - filling them with values\1.1.6.2 vectors - filling them with values\1.1.6.2 vectors - filling them with values.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  1.1.6.2 Vectors - filling them with values.vcxproj -> E:\Study_practice2017\C++Advanced\1.1.6.2 Vectors - filling them with values\Debug\1.1.6.2 Vectors - filling them with values.exe
+  1.1.6.2 Vectors - filling them with values.vcxproj -> E:\Study_practice2017\C++Advanced\1.1.6.2 Vectors - filling them with values\Debug\1.1.6.2 Vectors - filling them with values.pdb (Full PDB)
