@@ -1,0 +1,116 @@
+﻿  2.2.11.1 Sets - swapping.cpp
+c:\program files\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+  c:\program files\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::greater<int>&,const double&,const double&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::greater<int> &,
+              _Ty1=const double &,
+              _Ty2=const double &
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1086): note: see reference to function template instantiation 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Insert_hint<double&,std::_Tree_node<double,void *>*>(std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>>,_Valty,_Nodety)' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>,
+              _Valty=double &,
+              _Nodety=std::_Tree_node<double,void *> *
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1085): note: see reference to function template instantiation 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Insert_hint<double&,std::_Tree_node<double,void *>*>(std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>>,_Valty,_Nodety)' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>,
+              _Valty=double &,
+              _Nodety=std::_Tree_node<double,void *> *
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1250): note: see reference to function template instantiation 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::emplace_hint<const _Elem&>(std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>>,const _Elem &)' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>,
+              _Elem=double
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1250): note: see reference to function template instantiation 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::emplace_hint<const _Elem&>(std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>>,const _Elem &)' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>,
+              _Elem=double
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1255): note: see reference to function template instantiation 'void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert<const _Elem*>(_Iter,_Iter)' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>,
+              _Elem=double,
+              _Iter=const double *
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1255): note: see reference to function template instantiation 'void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert<const _Elem*>(_Iter,_Iter)' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>,
+              _Elem=double,
+              _Iter=const double *
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1254): note: while compiling class template member function 'void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<double>)'
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\set(155): note: see reference to function template instantiation 'void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<double>)' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\set(44): note: see reference to class template instantiation 'std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>
+          ]
+  e:\study_practice2017\c++essential\2.2.11.1 sets - swapping\2.2.11.1 sets - swapping\2.2.11.1 sets - swapping.cpp(15): note: see reference to class template instantiation 'std::set<double,std::greater<int>,std::allocator<_Kty>>' being compiled
+          with
+          [
+              _Kty=double
+          ]
+c:\program files\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1673): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::greater<int>&,const double&,const double&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::greater<int> &,
+              _Ty1=const double &,
+              _Ty2=const double &
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1086): note: see reference to function template instantiation 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Insert_hint<double&,std::_Tree_node<double,void *>*>(std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>>,_Valty,_Nodety)' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>,
+              _Valty=double &,
+              _Nodety=std::_Tree_node<double,void *> *
+          ]
+  c:\program files\microsoft visual studio 14.0\vc\include\xtree(1085): note: see reference to function template instantiation 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Insert_hint<double&,std::_Tree_node<double,void *>*>(std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>>,_Valty,_Nodety)' being compiled
+          with
+          [
+              _Kty=double,
+              _Pr=std::greater<int>,
+              _Alloc=std::allocator<double>,
+              _Valty=double &,
+              _Nodety=std::_Tree_node<double,void *> *
+          ]
+c:\program files\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+  2.2.11.1 Sets - swapping.vcxproj -> E:\Study_practice2017\C++Essential\2.2.11.1 Sets - swapping\Debug\2.2.11.1 Sets - swapping.exe
+  2.2.11.1 Sets - swapping.vcxproj -> E:\Study_practice2017\C++Essential\2.2.11.1 Sets - swapping\Debug\2.2.11.1 Sets - swapping.pdb (Full PDB)
